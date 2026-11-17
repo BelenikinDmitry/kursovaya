@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/lordvoldemort/kursovaya/.claude/hooks/git-autosync.sh",
+            "timeout": 60
+          }
+        ]
+      }
+    ]
+  }
+}
