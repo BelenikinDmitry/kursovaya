@@ -1,0 +1,17 @@
+# Временные и служебные файлы
+*~
+*.swp
+*.tmp
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.o
+*.exe
+.idea/
+.vscode/
+# Локальные настройки Claude Code
+.claude/settings.local.json
